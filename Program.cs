@@ -9,8 +9,8 @@ namespace SannyBuilder
     {
         static DiscordRpcClient rpcClient;
         static bool rpcActive = false;
-        static string processName = "sanny"; // Sin .exe
-        static string clientId = "1400993954710945884"; // Reemplaza con tu Client ID de Discord App
+        static string processName = "sanny"; 
+        static string clientId = "1400993954710945884";
 
         static void Main(string[] args)
         {
@@ -30,7 +30,7 @@ namespace SannyBuilder
                     StopRichPresence();
                 }
 
-                Thread.Sleep(2000); // Espera 2 segundos
+                Thread.Sleep(2000); 
             }
         }
 
@@ -46,7 +46,7 @@ namespace SannyBuilder
                 State = "Working in Sanny Builder",
                 Assets = new Assets
                 {
-                    LargeImageKey = "sanny_logo", // Debe coincidir con la imagen que subiste a Discord
+                    LargeImageKey = "sanny_logo", 
                     LargeImageText = "Sanny Builder"
                 },
                 Timestamps = Timestamps.Now
