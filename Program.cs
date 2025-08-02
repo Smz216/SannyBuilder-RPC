@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Threading;
 using DiscordRPC;
@@ -7,15 +7,17 @@ namespace SannyBuilder
 {
     class Program
     {
-        static DiscordRpcClient rpcClient;
+        static DiscordRpcClient? rpcClient;
         static bool rpcActive = false;
-        static string processName = "sanny"; 
+        static string processName = "sanny";
         static string clientId = "1400993954710945884";
 
         static void Main(string[] args)
         {
-            Console.Title = "Sanny Builder RPC Watcher";
-            Console.WriteLine("Waiting for Sanny Builder");
+            Console.Title = "Sanny Builder RPCg";
+            Console.WriteLine("====================================");
+            Console.WriteLine("Waiting for Sanny Builder to start...");
+            Console.WriteLine("====================================\n");
 
             while (true)
             {
@@ -30,14 +32,13 @@ namespace SannyBuilder
                     StopRichPresence();
                 }
 
-                Thread.Sleep(2000); 
+                Thread.Sleep(2000);
             }
         }
 
         static void StartRichPresence()
         {
             rpcClient = new DiscordRpcClient(clientId);
-
             rpcClient.Initialize();
 
             rpcClient.SetPresence(new RichPresence
@@ -46,22 +47,26 @@ namespace SannyBuilder
                 State = "Working in Sanny Builder",
                 Assets = new Assets
                 {
-                    LargeImageKey = "sanny_logo", 
+                    LargeImageKey = "sanny_logo",
                     LargeImageText = "Sanny Builder"
                 },
                 Timestamps = Timestamps.Now
             });
 
             rpcActive = true;
-            Console.WriteLine("RPC Activated.");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\nRPC has been activated.\n");
+            Console.ResetColor();
         }
 
         static void StopRichPresence()
         {
-            rpcClient.Dispose();
+            rpcClient?.Dispose();
             rpcClient = null;
             rpcActive = false;
-            Console.WriteLine("RPC Stopped");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("\nSanny Builder closed. RPC stopped.\n");
+            Console.ResetColor();
         }
     }
 }
