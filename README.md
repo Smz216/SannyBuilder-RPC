@@ -63,18 +63,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Waiting for Sanny Builder  
 _The program is monitoring and waiting for Sanny Builder to start._
 
-![Waiting for Sanny Builder](ImagesREFS/waiting.png)
+![Waiting for Sanny Builder](ImagesREFS/Waiting.png)
 
 ---
 
 ## Sanny Builder Started  
 _Discord Rich Presence is active while Sanny Builder is running._
 
-![Sanny Builder Started](ImagesREFS/started.png)
+![Sanny Builder Started](ImagesREFS/Started.png)
 
 ---
 
 ## Sanny Builder Stopped  
 _Discord Rich Presence has stopped because Sanny Builder was closed._
 
-![Sanny Builder Stopped](ImagesREFS/stopped.png)
+![Sanny Builder Stopped](ImagesREFS/Stopped.png)
