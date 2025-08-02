@@ -1,0 +1,2 @@
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Release\net9.0\win-x64\publish\SannyRPC.pdb
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Release\net9.0\win-x64\publish\SannyRPC.exe

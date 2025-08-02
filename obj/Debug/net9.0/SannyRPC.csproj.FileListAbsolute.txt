@@ -1,0 +1,22 @@
+C:\Users\0\Desktop\RPC SannyBuilder\obj\Debug\net9.0\SannyRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\RPC SannyBuilder\obj\Debug\net9.0\SannyRPC.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\RPC SannyBuilder\obj\Debug\net9.0\SannyRPC.AssemblyInfo.cs
+C:\Users\0\Desktop\RPC SannyBuilder\obj\Debug\net9.0\SannyRPC.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.AssemblyInfo.cs
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Debug\net9.0\SannyRPC.exe
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Debug\net9.0\SannyRPC.deps.json
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Debug\net9.0\SannyRPC.runtimeconfig.json
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Debug\net9.0\SannyRPC.dll
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Debug\net9.0\SannyRPC.pdb
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Debug\net9.0\DiscordRPC.dll
+C:\Users\0\Desktop\SannyBuilderRPC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.csproj.Up2Date
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.dll
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\refint\SannyRPC.dll
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.pdb
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\SannyRPC.genruntimeconfig.cache
+C:\Users\0\Desktop\SannyBuilderRPC\obj\Debug\net9.0\ref\SannyRPC.dll

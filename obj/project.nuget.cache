@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4AfsilSprY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\0\\Desktop\\SannyBuilderRPC\\SannyRPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0\\.nuget\\packages\\discordrichpresence\\1.5.0.51\\discordrichpresence.1.5.0.51.nupkg.sha512",
+    "C:\\Users\\0\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.7\\microsoft.net.illink.tasks.9.0.7.nupkg.sha512",
+    "C:\\Users\\0\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\0\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.7\\microsoft.netcore.app.runtime.win-x64.9.0.7.nupkg.sha512",
+    "C:\\Users\\0\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.7.nupkg.sha512",
+    "C:\\Users\\0\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.7\\microsoft.aspnetcore.app.runtime.win-x64.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
