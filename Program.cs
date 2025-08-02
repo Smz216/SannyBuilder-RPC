@@ -14,7 +14,7 @@ namespace SannyBuilder
 
         static void Main(string[] args)
         {
-            Console.Title = "Sanny Builder RPCg";
+            Console.Title = "Sanny Builder RPC";
             Console.WriteLine("====================================");
             Console.WriteLine("Waiting for Sanny Builder to start...");
             Console.WriteLine("====================================\n");
