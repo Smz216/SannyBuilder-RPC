@@ -4,7 +4,7 @@
 
 ## English
 
-This project adds Discord Rich Presence support for **Sanny Builder**, showing when you are editing GTA San Andreas scripts.  
+This project adds Discord Rich Presence support for **Sanny Builder**, showing when you are editing GTA scripts.  
 It detects if Sanny Builder is running and updates your Discord status with custom details and images.
 
 ### Features
@@ -21,7 +21,7 @@ It detects if Sanny Builder is running and updates your Discord status with cust
 
 ## Español
 
-Este proyecto agrega soporte de Discord Rich Presence para **Sanny Builder**, mostrando cuando estás editando scripts de GTA San Andreas.  
+Este proyecto agrega soporte de Discord Rich Presence para **Sanny Builder**, mostrando cuando estás editando scripts de GTA.
 Detecta si Sanny Builder está abierto y actualiza tu estado de Discord con detalles e imágenes personalizadas.
 
 ### Características
@@ -38,7 +38,7 @@ Detecta si Sanny Builder está abierto y actualiza tu estado de Discord con deta
 
 ## Français
 
-Ce projet ajoute la prise en charge de Discord Rich Presence pour **Sanny Builder**, affichant lorsque vous éditez des scripts de GTA San Andreas.  
+Ce projet ajoute la prise en charge de Discord Rich Presence pour **Sanny Builder**, affichant lorsque vous éditez des scripts de GTA.  
 Il détecte si Sanny Builder est en cours d'exécution et met à jour votre statut Discord avec des détails et images personnalisés.
 
 ### Fonctionnalités
